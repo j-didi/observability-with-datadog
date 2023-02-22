@@ -17,7 +17,7 @@ Datadog is a **Software as a Service (SaaS)** platform that help us with that an
 
 ## 1. Architecture
 
-![](C:\Users\Didi\RiderProjects\Todo\images\architecture.png)
+![](.\images\architecture.png)
 
 For this sandbox I have a containerized environment with a **Postgres Database**, a **Redis** instance, an **ASP.NET Core API**, and the **Datadog Agent**. 
 
@@ -47,10 +47,10 @@ Execute some endpoint calls to generate data to Datadog. **Its also important to
 ## 3. Results
 
 ### Services
-![](C:\Users\Didi\RiderProjects\Todo\images\service-list.png)
+![](.\images\service-list.png)
 
 ### Traces
-![](C:\Users\Didi\RiderProjects\Todo\images\traces.png)
+![](.\images\traces.png)
 
 ### Trace Details
-![](C:\Users\Didi\RiderProjects\Todo\images\trace.png)
+![](.\images\trace.png)
