@@ -54,3 +54,6 @@ Execute some endpoint calls to generate data to Datadog. **Its also important to
 
 ### Trace Details
 ![](./images/trace.png)
+
+## 4. Docs
+[Datadog Docs](https://docs.datadoghq.com/)
